@@ -764,16 +764,16 @@ img {
   .single-portfolio-item.portfolio-item-7 {
     margin-top: 50px; }
     .single-portfolio-item.portfolio-item-7 .backend-content .dots {
-      position: absolute;
+      position: relative;
       z-index: -1;
       top: auto;
       bottom: 0;
-      left: -300px;
+      left: auto;
       right: auto; }
     .single-portfolio-item.portfolio-item-7 .backend-content h2 {
       top: -180px;
-      left: 70%;
-      right: auto; }
+      left: auto;
+      right: -500px; }
       @media only screen and (min-width: 992px) and (max-width: 1199px) {
         .single-portfolio-item.portfolio-item-7 .backend-content h2 {
           top: -100px; } }
