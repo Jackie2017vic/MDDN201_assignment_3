@@ -768,11 +768,11 @@ img {
       z-index: -1;
       top: auto;
       bottom: 0;
-      left: auto;
-      right: -150px; }
+      left: -300px;
+      right: auto; }
     .single-portfolio-item.portfolio-item-7 .backend-content h2 {
       top: -180px;
-      left: 30%;
+      left: 70%;
       right: auto; }
       @media only screen and (min-width: 992px) and (max-width: 1199px) {
         .single-portfolio-item.portfolio-item-7 .backend-content h2 {
